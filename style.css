@@ -10,9 +10,7 @@ header {
     background: #636C79;
     
 }
-.logo{
-    margin-right: 120px;
-}
+
 
 .navbar {
     display: flex;
@@ -48,11 +46,22 @@ header {
     cursor: pointer;
     color: #636C79;
     background-color: #fff;
+    transition: .6s;
+}
+@media screen and (max-width:900px) {
+    .list-items {
+        display: none;
+    }
+    .nav-btn{
+        margin-top: 60px;
+    }
+    
 }
 .header-section{
     margin: auto;
     display: flex;
     justify-content: space-around;
+
     
     
 }
