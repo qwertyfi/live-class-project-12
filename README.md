@@ -23,6 +23,6 @@ I'm Wasit Ali and this is my 12th project on HTML and CSS.
 - Learnt about behaviour of an image element on different div sizes.
 - Handled mobile Responsive With Media Queries.
 
-## ⏲ Time to finish the project
+## ⏲ Time taken to finish the project
 
 - Around 20 hours
