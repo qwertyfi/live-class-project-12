@@ -15,7 +15,7 @@ I'm Wasit Ali and this is my 12th project on HTML and CSS.
 
 ![](./assets/2022-10-14-15-43-31.png)
 
-🚀 [Live Preview](https://coruscating-florentine-ab0d0c.netlify.app/)
+🚀 [Live Preview](https://live-class-project-12-xi.vercel.app/)
 
 ## 🛠️ What I have learned in this project?
 
